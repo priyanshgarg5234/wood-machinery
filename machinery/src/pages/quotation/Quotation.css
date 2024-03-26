@@ -1,0 +1,25 @@
+/* .quotations{
+    min-height: 85vh;
+    padding: 10px 15px 10px 15px;
+    position: relative;
+}
+.quotation-heading{
+    text-align: center;
+    font-size: x-large;
+}
+.allrequests{
+    width: 100%;
+}
+.requests-table{
+    width: 100%;
+    text-align: center;
+    border-spacing: 0;
+}
+.requests-table thead {
+    height: 40px;
+    background-color: #ffa9a9;
+    font-size: large;
+}
+.requests-table tbody tr:nth-child(even) {
+    background-color: #ffe1e1;
+} */

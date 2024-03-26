@@ -1,0 +1,10 @@
+#register-container{
+    width: 50%;
+    background-color: rgb(159, 210, 255);
+    padding: 1rem 2rem 1.5rem 2rem;
+}
+@media screen and (max-width:950px) {
+    #register-container{
+        width: 95%;
+    }
+}

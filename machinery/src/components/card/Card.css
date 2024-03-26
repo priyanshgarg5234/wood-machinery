@@ -1,0 +1,9 @@
+.card-body{
+    width: 200px;
+}
+
+.product-info{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

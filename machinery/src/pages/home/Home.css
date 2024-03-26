@@ -1,0 +1,19 @@
+.home {
+    /* background-color:rgb(195, 195, 234); */
+    height: 100%;
+    padding: 5px 15px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .carousel-container{
+    box-shadow: 1px 1px 10px 1px rgb(195, 195, 234);
+  }
+  .slide{
+    height: 350px;
+  }
+  .carouseImg{
+    height: 100%;
+  }
+  
+  

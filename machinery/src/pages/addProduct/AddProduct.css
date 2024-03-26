@@ -1,0 +1,10 @@
+#addProduct-form{
+    background-color: rgb(178, 178, 229);
+    width: 50%;
+}
+
+@media screen and (max-width:920px){
+    #addProduct-form{
+        width: 80%;
+    }  
+}

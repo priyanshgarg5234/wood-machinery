@@ -1,0 +1,58 @@
+/* .request-view-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .request-view-content {
+    background-color: white;
+    padding: 20px 20px 30px 20px;
+    width: 600px;
+    max-height: 80vh;
+    overflow-y: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+  }
+  .quotation-request{
+    display: flex;
+  }
+  .product-image{
+    padding: 40px;
+    height: 230px;
+    width: 275px;
+  }
+  .product-image img{
+    height: 230px;
+    width: 275px;
+  }
+  table{
+    width: 200px;
+  }
+  td{
+    width: 150px;
+  }
+  .requestdetails{
+    width: 100%;
+    padding: 0 30px ;
+  }
+  .send-quotation{
+    padding: 0 30px;
+  }
+  .quotation-input{
+    width: 500px;
+    margin: 0 20px;
+  }
+  .send-button{
+    text-align: right;
+    margin: 10px 113px;
+  }
+  
+ */

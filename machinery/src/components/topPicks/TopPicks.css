@@ -1,0 +1,15 @@
+.top-picks{
+    margin-top: 20px;
+    padding: 10px 15px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(203, 203, 245);
+    
+}
+.top-products{
+    text-align: left;
+    width: 100%;
+    display: flex;
+    overflow-x: scroll;
+    gap: 30px;
+}

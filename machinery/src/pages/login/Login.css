@@ -1,0 +1,13 @@
+.login{
+    width: 35%;
+}
+
+@media screen and (max-width:600px){
+    .login{
+        width: 75%;
+    }
+}
+
+#login-container{
+    background-color: rgb(159, 210, 255);
+}
